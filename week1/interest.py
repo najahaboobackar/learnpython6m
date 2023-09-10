@@ -1,0 +1,5 @@
+p=float(input("enter the principle"))
+r=float(input("enter the rate"))
+y=float(input("enter the year"))
+si=float(p*r*y)
+print("%.3f"% si)
